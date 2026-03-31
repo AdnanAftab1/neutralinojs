@@ -1,6 +1,5 @@
 # Developer tools' files
 .lite_workspace.lua
-.vscode
 
 # Neutralinojs-related files
 .storage
