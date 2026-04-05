@@ -1,6 +1,5 @@
 # Developer tools' files
 .lite_workspace.lua
-.vscode
 
 # Neutralinojs-related files
 .storage
@@ -21,3 +20,5 @@
 # Platform specific 
 Thumbs.db
 .DS_Store
+config.bat
+node_modules
